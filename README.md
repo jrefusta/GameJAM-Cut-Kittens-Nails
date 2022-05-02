@@ -9,12 +9,14 @@ Download the project and execute the following executable file: "Cut Kitten's Na
 ```
 /Binary/Cut Kitten's Nails.exe
 ```
-# Instructions
+## Instructions
 Cut kitten's nails (they have it too large). 
 
 Use left click to cut, try to cut in the middle of the nail, otherwise the kitten's stress will increase. If the cat's stress peaks, you will loose!
 
 ## Additional information
+
+In this two-week long Game Jam, the topic given was "Too Large".
 
 You can found the submission to the JAM [here](https://itch.io/jam/tu-juego-a-juicio-jam-2021/rate/1182508).
 
