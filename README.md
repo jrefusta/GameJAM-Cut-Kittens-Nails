@@ -19,5 +19,5 @@ Creators: Víctor y Joan. (@ReedySplash & @JRefusta)
 Music and sounds: zapsplat
 ## Additional information
 You can found the submission to the JAM [here](https://itch.io/jam/tu-juego-a-juicio-jam-2021/rate/1182508).
-
-Made by @jrefusta and @ReedySplash.
+Music and sounds: [zapsplat](https://www.zapsplat.com)
+Made by [@jrefusta](https://github.com/jrefusta) and [@ReedySplash](https://github.com/ReedySplash).
