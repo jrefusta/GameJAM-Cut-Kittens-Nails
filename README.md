@@ -14,10 +14,10 @@ Cut kitten's nails (they have it too large).
 
 Use left click to cut, try to cut in the middle of the nail, otherwise the kitten's stress will increase. If the cat's stress peaks, you will loose!
 
-Creators: Víctor y Joan. (@ReedySplash & @JRefusta)
-
-Music and sounds: zapsplat
 ## Additional information
+
 You can found the submission to the JAM [here](https://itch.io/jam/tu-juego-a-juicio-jam-2021/rate/1182508).
+
 Music and sounds: [zapsplat](https://www.zapsplat.com)
+
 Made by [@jrefusta](https://github.com/jrefusta) and [@ReedySplash](https://github.com/ReedySplash).
