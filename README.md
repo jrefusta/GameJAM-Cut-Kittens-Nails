@@ -23,7 +23,7 @@ Use left click to cut, try to cut in the middle of the nail, otherwise the kitte
 
 ## Additional information
 
-In this two-week long Game Jam, the topic given was "Too Large".
+In this two-week long Game Jam, the topic given was **"Too Large"**.
 
 You can found the submission to the JAM [here](https://itch.io/jam/tu-juego-a-juicio-jam-2021/rate/1182508).
 
