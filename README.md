@@ -1,4 +1,4 @@
-# GameJAM-Cut Kitten's Nails (They have it too large)
+# Game JAM - Cut Kitten's Nails (They have it too large)
 
 Our humble participation to the [Alva Majo's JAM](https://itch.io/jam/tu-juego-a-juicio-jam-2021).
 
