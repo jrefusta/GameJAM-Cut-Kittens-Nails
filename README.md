@@ -1,7 +1,7 @@
 # GameJAM-Cut Kitten's Nails (They have it too large)
 
 Our humble participation to the [Alva Majo's JAM](https://itch.io/jam/tu-juego-a-juicio-jam-2021).
-![](https://github.com/jrefusta/OpenGL-Break-In-Videogame/blob/main/images/cat1.jpg)
+![](https://github.com/jrefusta/GameJAM-Cut-Kittens-Nails/blob/main/images/cat1.jpg)
 
 ## How to run it
 
